@@ -1,0 +1,17 @@
+{
+    "Container": {
+        "@piece_chest_wood", "@barrel", "@piece_chest", "@blackmetal_chest"
+    },
+    "Fuel": {
+        "@blastfurnace", "@charcoal_kiln", "@smelter", "@fire_pit", "@piece_groundtorch_wood"
+    },
+    "Store": {
+        "@blastfurnace", "@charcoal_kiln", "@smelter", "@piece_cauldron", "@piece_MeadCauldron", "@fermenter"
+    },
+    "Charge": {
+        "@blastfurnace", "@charcoal_kiln"
+    },
+    "Items": {
+        "@BlackMetalScrap",
+    }
+}
